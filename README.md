@@ -2,11 +2,11 @@
 
 This repository contains the code for my personal portfolio website, which incorporates Particle.js for an interactive background.
 
-![Portfolio Preview](portfolio-preview.png)
+![Portfolio Preview](https://ibb.co/JKFfZxD)
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
+1. [Introduction]
 2. [Features]
 3. [Technologies Used]
 
